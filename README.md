@@ -11,7 +11,7 @@ This is a Next.js project bootstrapped with create-next-app.
 > Note: This project contains the configuration for [devcontainer](https://code.visualstudio.com/docs/devcontainers/containers).
 
 - NodeJS v20
-- PNPM v8.11.0
+- [PNPM](https://pnpm.io/) v8.11.0
 - Docker (For devcontainer)
 
 ## Installation
@@ -74,8 +74,11 @@ pnpm run test:e2e --ui #Show UI
 
 ## References
 
+- [NodeJS](https://nodejs.org/en)
+- [PNpM - Fast, disk space efficient package manager](https://pnpm.io/)
 - [Next.js - The React Framework for the Web](https://nextjs.org/)
 - [Shopify Polaris](https://polaris.shopify.com/)
 - [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 - [Storybook: UI component explorer for frontend developers](https://storybook.js.org/)
 - [Playwright: Enables reliable end-to-end testing for modern web apps](https://playwright.dev/)
+- [Development Containers](https://containers.dev/)
