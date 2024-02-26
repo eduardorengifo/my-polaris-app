@@ -12,7 +12,7 @@ This is a Next.js project bootstrapped with create-next-app.
 
 - NodeJS v20
 - [PNPM](https://pnpm.io/) v8.11.0
-- Docker (For devcontainer)
+- Docker (Devcontainer only)
 
 ## Installation
 
@@ -82,3 +82,7 @@ pnpm run test:e2e --ui #Show UI
 - [Storybook: UI component explorer for frontend developers](https://storybook.js.org/)
 - [Playwright: Enables reliable end-to-end testing for modern web apps](https://playwright.dev/)
 - [Development Containers](https://containers.dev/)
+- [Husky- Modern native git hooks made easy](https://typicode.github.io/husky/)
+- [Github Actions - Automate your workflow from idea to production](https://github.com/features/actions)
+- [Conventional Commits - A specification for adding human and machine readable meaning to commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
+- [React CodeMirror - CodeMirror component for React.](https://uiwjs.github.io/react-codemirror/)
