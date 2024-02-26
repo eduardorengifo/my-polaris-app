@@ -1,4 +1,7 @@
 import type { Preview } from '@storybook/react';
+import '@shopify/polaris/build/esm/styles.css';
+
+import '@/shared/styles/globals.css';
 
 const preview: Preview = {
   parameters: {
