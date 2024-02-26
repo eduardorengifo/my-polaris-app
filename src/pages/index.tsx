@@ -1,1 +1,1 @@
-export { default } from '@/modules/shop/pages/Home';
+export { default } from '@/modules/admin/pages/Editor';
